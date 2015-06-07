@@ -1,9 +1,9 @@
-x = 5
+a = 12
 
-if x > 10:
-	x = x + 10
-	print x
+if a < 6:
+	a = a + 12
+	print a
 else:
-	x = x * 10
-	print x
+	a = a - 12
+	print a
 
