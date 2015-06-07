@@ -1,6 +1,6 @@
 <?php
-$angka1 = (int) 10;
-$angka2 = 50;
+$angka1 = (int) 40;
+$angka2 = 2;
 
 // pertambahan
 echo $angka1 + $angka2;
