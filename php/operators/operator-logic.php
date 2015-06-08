@@ -23,4 +23,5 @@ $hasil5 = ($a and $b || $a or b);
 echo '$hasil5 = ';
 echo var_dump($hasil5); // $hasil5 = bool(true)
 
+//fungsi var_dumb($variable) diguanakan untuk mengetahui informasi nilai variable 
 ?>
