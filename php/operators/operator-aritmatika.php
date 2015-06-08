@@ -1,4 +1,5 @@
 <?php
+
 $angka1 = (int) 40;
 $angka2 = 2;
 
@@ -15,5 +16,6 @@ echo $angka1 * $angka2;
 echo $angka1 / $angka2;
 
 // operator aritmatika dan assignment (memberikan nilai ke variabel lain)
-
 $hasil = $angka1 + $angka2;
+
+?>
